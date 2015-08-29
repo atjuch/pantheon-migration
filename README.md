@@ -39,6 +39,6 @@ We will be reviewing these daily and marking their status as appropriate
 
 Label your issue titles with [SUCCESS] in the title, example:
 
-#### `[SUCCESS] My migration worked greate!!`
+#### `[SUCCESS] My migration worked great!!`
 
 
