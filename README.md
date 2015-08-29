@@ -25,9 +25,11 @@ We have setup the plugin in the WordPress.org repo that is available to download
 
 https://wordpress.org/plugins/bv-pantheon-migration/
 
-### Please post issues/bugs to their specific host here
+### How to post issues/bugs to their specific host here
 
 https://github.com/atjuch/pantheon-migration/milestones
+
+
 
 We will be reviewing these daily and marking their status as appropriate
 
