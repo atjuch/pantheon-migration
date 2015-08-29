@@ -37,6 +37,8 @@ We will be reviewing these daily and marking their status as appropriate
 
 ### Have a successful migration and want to share about it?
 
-Please post any successful stories or comments here
+Label your issue titles with [SUCCESS] in the title, example:
 
-https://github.com/atjuch/pantheon-migration/milestones/Successful%20Migrations
+#### `[SUCCESS] My migration worked greate!!`
+
+
