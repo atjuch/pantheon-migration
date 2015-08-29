@@ -27,9 +27,11 @@ https://wordpress.org/plugins/bv-pantheon-migration/
 
 ### How to post issues/bugs to their specific host here
 
-https://github.com/atjuch/pantheon-migration/milestones
+https://github.com/atjuch/pantheon-migration/issues
 
+Label your issue titles with the name of the host in them, example:
 
+#### `[GoDaddy] Getting error when migrating`
 
 We will be reviewing these daily and marking their status as appropriate
 
